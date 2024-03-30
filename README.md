@@ -39,7 +39,7 @@ This portfolio website serves as a digital resume for Shashank Sinha, a software
 To use the portfolio website, simply open the `index.html` file in a web browser. The website is designed to be self-contained and can be hosted on any web server or viewed locally.
 
 # Screenshots
-![Screenshots](https://github.com/shashank4891/debugdeployment_portfolio/assets/132444392/aedfef58-65bd-4231-bfdc-36085a85d04d)
+(https://github.com/shashank4891/debugdeployment_portfolio/assets/132444392/aedfef58-65bd-4231-bfdc-36085a85d04d)
 
 
 ## License
